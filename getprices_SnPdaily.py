@@ -1,3 +1,5 @@
+# S&P100.txt contains list of S&P100 companies.  Just copy paste from wikipedia into a text file.
+
 import urllib2
 import time
 import datetime
