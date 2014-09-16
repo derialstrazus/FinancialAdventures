@@ -1,3 +1,5 @@
+# Use in conjunction with getprices_SnPdaily.py to get daily prices for S&P100 Companies
+
 from pandas import Series, DataFrame
 import pandas as pd
 import datetime
